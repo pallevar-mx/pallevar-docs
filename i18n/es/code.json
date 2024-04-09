@@ -1,4 +1,7 @@
-{
+{ 
+  "theme.titulo":{
+    "message": "Mi sitio"
+  },
   "theme.ErrorPageContent.title": {
     "message": "Esta página ha fallado.",
     "description": "The title of the fallback page when the page crashed"
@@ -285,5 +288,8 @@
   "theme.unlistedContent.message": {
     "message": "Esta página está sin clasificar. Los motores de búsqueda no la indexaran, y solo los usuarios con el enlace directo podrán acceder a esta.",
     "description": "The unlisted content banner message"
+  },
+  "Docusaurus Tutorial in 15min ⏱️": {
+    "message": "Docusaurus Tutorial in 15min ⏱️"
   }
 }

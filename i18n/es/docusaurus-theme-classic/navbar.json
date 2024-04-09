@@ -1,11 +1,11 @@
 {
   "title": {
     "message": "Mi Sitio",
-    "description": "El titulo de la barra de navegacion"
+    "description": "The title in the navbar"
   },
   "logo.alt": {
     "message": "Mi Sitio Logo",
-    "description": "Texto alt text en navbar logo"
+    "description": "The alt text of navbar logo"
   },
   "item.label.Tutorial": {
     "message": "Tutoriales",
