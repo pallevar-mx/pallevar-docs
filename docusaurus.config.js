@@ -5,25 +5,24 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  const organizationName = 'obedvega'; // Usually your GitHub org/user name.
-  const projectName = 'td-docusaurus'; // Usually your repo name.
 
 /** @type {import('@docusaurus/types').Config} */
+
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-//  organizationName,
-//  projectName,
+
   // Set the production url of your site here
-  //url: 'https://your-docusaurus-site.example.com',
-  url: `https://${organizationName}.github.io`,
+  url: 'https://obedvega.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: `/${projectName}/`,
+  baseUrl: '/td-docusaurus',
 
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'obedvega', // Usually your GitHub org/user name.
+  projectName: 'td-docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
