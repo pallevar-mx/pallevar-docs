@@ -2,6 +2,12 @@
   "theme.titulo":{
     "message": "Mi sitio"
   },
+  "theme.dino":{
+    "message": "Los dinosaurios son geniales"
+  },
+  "theme.tuto":{
+    "message": "Tutoriales Docusaurus en 15 min"
+  },
   "theme.ErrorPageContent.title": {
     "message": "Esta página ha fallado.",
     "description": "The title of the fallback page when the page crashed"

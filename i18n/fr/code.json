@@ -1,4 +1,13 @@
 {
+  "theme.titulo":{
+    "message": "Mon site"
+  },
+  "theme.dino":{
+    "message": "Les dinosaures sont cool"
+  },
+  "theme.tuto":{
+    "message": "Tutoriel Docusaurus en 15min"
+  },
   "theme.ErrorPageContent.title": {
     "message": "Cette page a planté.",
     "description": "The title of the fallback page when the page crashed"
