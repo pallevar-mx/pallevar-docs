@@ -2,36 +2,36 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction du didacticiel
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Découvrons **Docusaurus en moins de 5 minutes**.
 
-## Getting Started
+## Commencer
 
-Get started by **creating a new site**.
+Commencez par **créer un nouveau site**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Ou **essayez Docusaurus immédiatement** avec **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+### Ce dont vous aurez besoin
 
 - [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+## Générer un nouveau site
 
-Generate a new Docusaurus site using the **classic template**.
+Générez un nouveau site Docusaurus à l'aide du **modèle classique**.
 
-The classic template will automatically be added to your project after you run the command:
+Le modèle classique sera automatiquement ajouté à votre projet après avoir exécuté la commande :
 
 ```bash
 npm init docusaurus@latest my-website classic
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Vous pouvez taper cette commande dans l'invite de commande, Powershell, Terminal ou tout autre terminal intégré de votre éditeur de code.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+La commande installe également toutes les dépendances nécessaires dont vous avez besoin pour exécuter Docusaurus.
 
-## Start your site
+## Démarrez votre site
 
 Run the development server:
 
