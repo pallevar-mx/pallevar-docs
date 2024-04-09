@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1656],{8198:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/obedvega/td-docusaurus/blog/tags/facebook","allTagsPath":"/obedvega/td-docusaurus/blog/tags","count":1,"unlisted":false}')}}]);
