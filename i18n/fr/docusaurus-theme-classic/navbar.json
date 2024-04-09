@@ -1,22 +1,22 @@
 {
   "title": {
-    "message": "My Site",
-    "description": "The title in the navbar"
+    "message": "Mon site",
+    "description": "Le titre dans la barre de navigation"
   },
   "logo.alt": {
-    "message": "My Site Logo",
-    "description": "The alt text of navbar logo"
+    "message": "Logo de mon site",
+    "description": "Le texte alternatif du logo de la barre de navigation"
   },
   "item.label.Tutorial": {
-    "message": "Tutorial",
-    "description": "Navbar item with label Tutorial"
+    "message": "Tutoriels",
+    "description": "Élément de la barre de navigation avec étiquette Tutoriel"
   },
   "item.label.Blog": {
     "message": "Blog",
-    "description": "Navbar item with label Blog"
+    "description": "Élément de la barre de navigation avec l'étiquette Blog"
   },
   "item.label.GitHub": {
     "message": "GitHub",
-    "description": "Navbar item with label GitHub"
+    "description": "Élément de la barre de navigation avec l'étiquette GitHub"
   }
 }

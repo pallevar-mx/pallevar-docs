@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Mi Sitio",
+    "description": "El titulo de la barra de navegacion"
+  },
+  "logo.alt": {
+    "message": "Mi Sitio Logo",
+    "description": "Texto alt text en navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutoriales",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
