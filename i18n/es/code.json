@@ -8,6 +8,24 @@
   "theme.tuto":{
     "message": "Tutoriales Docusaurus en 15 min"
   },
+   "theme.subtitle-1":{
+    "message": "Fácil de usar"
+  },
+  "theme.subhead-1":{
+    "message": "Docusaurus fue diseñado desde cero para ser fácilmente instalado y se utiliza para que su sitio web esté en funcionamiento rápidamente."
+  },
+  "theme.subtitle-2":{
+    "message": "Centrarse en lo que importa"
+  },
+  "theme.subhead-2":{
+    "message": "Docusaurus te permite concentrarte en tus documentos y nosotros haremos las tareas del hogar. Continúe y mueva sus documentos al directorio de documentos."
+  },
+  "theme.subtitle-3":{
+    "message": "Desarrollado por React"
+  },
+  "theme.subhead-3":{
+    "message": "Extend or customize your website layout by reusing React. Docusaurus can be extended while reusing the same header and footer."
+  },
   "theme.ErrorPageContent.title": {
     "message": "Esta página ha fallado.",
     "description": "The title of the fallback page when the page crashed"

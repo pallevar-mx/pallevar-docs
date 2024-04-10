@@ -8,6 +8,27 @@
   "theme.tuto":{
     "message": "Tutoriel Docusaurus en 15min"
   },
+  "theme.description":{
+    "message": "Tutoriel Docusaurus en 15min"
+  },
+   "theme.subtitle-1":{
+    "message": "Facilité d'utilisation"
+  },
+  "theme.subhead-1":{
+    "message": "Docusaurus a été conçu à partir de zéro pour être facilement installé et utilisé pour que votre site Web fonctionne rapidement."
+  },
+  "theme.subtitle-2":{
+    "message": "Centrer sur ce qui importe"
+  },
+  "theme.subhead-2":{
+    "message": "Docusaurus vous permet de vous concentrer sur vos documents et nous avons les tâches de la maison. Continuez et déplacez vos documents vers le répertoire de documents."
+  },
+  "theme.subtitle-3":{
+    "message": "Démarré par React"
+  },
+  "theme.subhead-3":{
+    "message": "Étendez ou personnalisez la mise en page de votre site Web en réutilisant React. Docusaurus peut être étendu tout en réutilisant les mêmes en-tête et pied de page."
+  },
   "theme.ErrorPageContent.title": {
     "message": "Cette page a planté.",
     "description": "The title of the fallback page when the page crashed"
