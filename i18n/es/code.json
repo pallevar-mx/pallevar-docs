@@ -24,7 +24,7 @@
     "message": "Desarrollado por React"
   },
   "theme.subhead-3":{
-    "message": "Extend or customize your website layout by reusing React. Docusaurus can be extended while reusing the same header and footer."
+    "message": "Amplíe o personalice el diseño de su sitio web reutilizando React. Docusaurus se puede ampliar reutilizando el mismo encabezado y pie de página."
   },
   "theme.ErrorPageContent.title": {
     "message": "Esta página ha fallado.",
