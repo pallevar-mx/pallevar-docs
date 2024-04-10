@@ -2,7 +2,9 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import Translate from '@docusaurus/Translate';
-
+import MountainSvg  from '@site/static/img/undraw_docusaurus_mountain.svg'; 
+import TreeSvg  from '@site/static/img/undraw_docusaurus_tree.svg';
+import ReactSvg  from '@site/static/img/undraw_docusaurus_react.svg'
 
 export default function HomepageFeatures() {
   return (
@@ -10,8 +12,8 @@ export default function HomepageFeatures() {
       <div className="container">
         <div className="row">
           <div className='col col--4'>
-            <div className="text--center">
-               
+            <div class="text--center">
+              <MountainSvg className={styles.featureSvg}/>
             </div>
             <div className="text--center padding-horiz--md">
               <Heading as="h3"><Translate id="theme.subtitle-1">Easy to Use</Translate></Heading>
@@ -24,7 +26,7 @@ export default function HomepageFeatures() {
           </div>
           <div className='col col--4'>
             <div className="text--center">
-               
+              <TreeSvg className={styles.featureSvg}/>
             </div>
             <div className="text--center padding-horiz--md">
               <Heading as="h3"><Translate id="theme.subtitle-2">Focus on What Matters</Translate></Heading>
@@ -37,7 +39,7 @@ export default function HomepageFeatures() {
           </div>
           <div className='col col--4'>
             <div className="text--center">
-               
+              <ReactSvg className={styles.featureSvg}/>
             </div>
             <div className="text--center padding-horiz--md">
             <Heading as="h3"><Translate id="theme.subtitle-3">Powered by React</Translate></Heading>
