@@ -38,7 +38,7 @@ const config = {
         htmlLang:'en-GB'
       },
       ja:{
-        direction:'rtl'
+        direction:'ltr'
       }
     }
   },
