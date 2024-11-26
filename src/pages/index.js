@@ -22,7 +22,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-               <Translate id="theme.tuto">Explora la documentación</Translate>
+               <Translate id="theme.tuto">Empezar</Translate>
           </Link>
         </div>
       </div>

@@ -19,7 +19,7 @@ export default function HomepageFeatures() {
               <Heading as="h3"><Translate id="theme.subtitle-1">Menu digital</Translate></Heading>
               <p>
                 <Translate id="theme.subhead-1">
-                Aprende cómo los clientes pueden explorar y usar el menú digital, desde navegar entre categorías hasta agregar productos al carrito. Este menú es fácil de usar, interactivo y personalizable para ofrecer la mejor experiencia al cliente.
+                Aprende cómo los clientes pueden explorar y usar el menú digital.
                 </Translate>
               </p>
             </div>
@@ -32,7 +32,7 @@ export default function HomepageFeatures() {
               <Heading as="h3"><Translate id="theme.subtitle-2">Panel administrativo</Translate></Heading>
               <p>
                 <Translate id='theme.subhead-3'>
-                Descubre cómo los restaurantes pueden gestionar su negocio desde este panel: crear y editar el menú, revisar estadísticas, y organizar las órdenes recibidas. Es el centro de control para personalizar y optimizar su operación.
+                Descubre cómo gestionar tu restaurante desde el panel administrativo.
                 </Translate>
               </p>
             </div>
@@ -45,7 +45,7 @@ export default function HomepageFeatures() {
             <Heading as="h3"><Translate id="theme.subtitle-3">Comanda digital</Translate></Heading>
               <p>
               <Translate id="theme.subhead-3">
-              Conoce cómo el área de cocina y el equipo del restaurante pueden gestionar órdenes en tiempo real: ver los pedidos, actualizar estados y garantizar un flujo eficiente desde la recepción hasta la entrega.
+                Optimiza el flujo de trabajo con herramientas para la cocina y el staff
                 </Translate>
               </p>
             </div>

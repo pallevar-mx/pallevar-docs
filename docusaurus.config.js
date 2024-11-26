@@ -9,8 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 
 const config = {
-  title: 'Pallevar',
-  tagline: 'Estamos contigo',
+  title: 'Pallevar Docs',
+  tagline: 'Documentación oficial para maximizar tu experiencia con nuestra plataforma.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
