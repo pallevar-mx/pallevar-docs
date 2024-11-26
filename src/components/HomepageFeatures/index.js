@@ -2,9 +2,9 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import Translate from '@docusaurus/Translate';
-import MountainSvg  from '@site/static/img/undraw_docusaurus_mountain.svg'; 
-import TreeSvg  from '@site/static/img/undraw_docusaurus_tree.svg';
-import ReactSvg  from '@site/static/img/undraw_docusaurus_react.svg'
+import menuImage  from '@site/static/img/menu.png'; 
+import panelImage  from '@site/static/img/panel.png';
+import comandaImage   from '@site/static/img/comanda.png'
 
 export default function HomepageFeatures() {
   return (
@@ -13,39 +13,39 @@ export default function HomepageFeatures() {
         <div className="row">
           <div className='col col--4'>
             <div class="text--center">
-              <MountainSvg className={styles.featureSvg}/>
+            <img src={menuImage} alt="Menu" className={styles.featureSvg}/>
             </div>
             <div className="text--center padding-horiz--md">
-              <Heading as="h3"><Translate id="theme.subtitle-1">Easy to Use</Translate></Heading>
+              <Heading as="h3"><Translate id="theme.subtitle-1">Menu digital</Translate></Heading>
               <p>
                 <Translate id="theme.subhead-1">
-                Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
+                Aprende cómo los clientes pueden explorar y usar el menú digital, desde navegar entre categorías hasta agregar productos al carrito. Este menú es fácil de usar, interactivo y personalizable para ofrecer la mejor experiencia al cliente.
                 </Translate>
               </p>
             </div>
           </div>
           <div className='col col--4'>
             <div className="text--center">
-              <TreeSvg className={styles.featureSvg}/>
+            <img src={panelImage} alt="Panel" className={styles.featureSvg}/>
             </div>
             <div className="text--center padding-horiz--md">
-              <Heading as="h3"><Translate id="theme.subtitle-2">Focus on What Matters</Translate></Heading>
+              <Heading as="h3"><Translate id="theme.subtitle-2">Panel administrativo</Translate></Heading>
               <p>
                 <Translate id='theme.subhead-3'>
-                Docusaurus lets you focus on your docs, and we ll do the chores. Go ahead and move your docs into the docs directory.
+                Descubre cómo los restaurantes pueden gestionar su negocio desde este panel: crear y editar el menú, revisar estadísticas, y organizar las órdenes recibidas. Es el centro de control para personalizar y optimizar su operación.
                 </Translate>
               </p>
             </div>
           </div>
           <div className='col col--4'>
             <div className="text--center">
-              <ReactSvg className={styles.featureSvg}/>
+              <img src={comandaImage} alt="Comanda" className={styles.featureSvg}/>
             </div>
             <div className="text--center padding-horiz--md">
-            <Heading as="h3"><Translate id="theme.subtitle-3">Powered by React</Translate></Heading>
+            <Heading as="h3"><Translate id="theme.subtitle-3">Comanda digital</Translate></Heading>
               <p>
               <Translate id="theme.subhead-3">
-                Extend or customize your website layout by reusing React. Docusaurus can be extended while reusing the same header and footer.
+              Conoce cómo el área de cocina y el equipo del restaurante pueden gestionar órdenes en tiempo real: ver los pedidos, actualizar estados y garantizar un flujo eficiente desde la recepción hasta la entrega.
                 </Translate>
               </p>
             </div>

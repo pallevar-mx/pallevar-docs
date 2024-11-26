@@ -9,20 +9,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Pallevar',
+  tagline: 'Estamos contigo',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://obedvega.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/td-docusaurus',
+  baseUrl: '/docs-docusaurus',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'obedvega', // Usually your GitHub org/user name.
-  projectName: 'td-docusaurus', // Usually your repo name.
+  projectName: 'docs-docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -75,7 +75,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Sites',
+        title: 'Pallevar',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -89,14 +89,16 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tutoriales',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+        /*  {to: '/blog', label: 'Blog', position: 'left'},*/
+        /*
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
+          */
         ],
       },
       footer: {
@@ -106,7 +108,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Tutoriales',
                 to: '/docs/intro',
               },
             ],

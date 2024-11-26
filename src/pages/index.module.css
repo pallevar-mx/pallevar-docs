@@ -21,3 +21,10 @@
   align-items: center;
   justify-content: center;
 }
+
+.hero{
+  color:#1c2434;
+}
+.hero-color {
+  background-color: #1c2434;
+}

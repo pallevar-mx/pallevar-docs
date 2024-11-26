@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Cómo acceder al panel y configuración inicial
 
 Documents are **groups of pages** connected through:
 

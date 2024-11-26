@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Translate your site
+# Cómo actualizar el estado de las órdenes
 
 Let's translate `docs/intro.md` to French.
 
