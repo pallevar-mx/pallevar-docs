@@ -5,6 +5,7 @@ import Translate from '@docusaurus/Translate';
 import menuImage  from '@site/static/img/menu.png'; 
 import panelImage  from '@site/static/img/panel.png';
 import comandaImage   from '@site/static/img/comanda.png'
+import Link from '@docusaurus/Link';
 
 export default function HomepageFeatures() {
   return (
@@ -13,7 +14,9 @@ export default function HomepageFeatures() {
         <div className="row">
           <div className='col col--4'>
             <div class="text--center">
-            <img src={menuImage} alt="Menu" className={styles.featureSvg}/>
+              <Link to="/docs/category/menu-digital">
+                <img src={menuImage} alt="Menu" className={styles.featureSvg}/>
+              </Link>
             </div>
             <div className="text--center padding-horiz--md">
               <Heading as="h3"><Translate id="theme.subtitle-1">Menu digital</Translate></Heading>
@@ -26,7 +29,8 @@ export default function HomepageFeatures() {
           </div>
           <div className='col col--4'>
             <div className="text--center">
-            <img src={panelImage} alt="Panel" className={styles.featureSvg}/>
+              <a href="docs/category/panel-administrativo"><img src={panelImage} alt="Panel" className={styles.featureSvg}/></a>
+            
             </div>
             <div className="text--center padding-horiz--md">
               <Heading as="h3"><Translate id="theme.subtitle-2">Panel administrativo</Translate></Heading>
@@ -39,7 +43,9 @@ export default function HomepageFeatures() {
           </div>
           <div className='col col--4'>
             <div className="text--center">
+            <Link to="/docs/category/comanda-digital">
               <img src={comandaImage} alt="Comanda" className={styles.featureSvg}/>
+              </Link>
             </div>
             <div className="text--center padding-horiz--md">
             <Heading as="h3"><Translate id="theme.subtitle-3">Comanda digital</Translate></Heading>
