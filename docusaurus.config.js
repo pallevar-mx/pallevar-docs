@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Pallevar Docs',
   tagline: 'Documentación oficial para maximizar tu experiencia con nuestra plataforma.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo_fondo_transparente.png',
 
   // Set the production url of your site here
   url: 'https://obedvega.github.io',
@@ -73,12 +73,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo_fondo_transparente.png',
       navbar: {
         title: 'Pallevar',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Pallevar',
+          src: 'img/logo_fondo_transparente.png',
         },
         items: [
           {
