@@ -105,7 +105,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentacion',
             items: [
               {
                 label: 'Tutoriales',
@@ -114,37 +114,45 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Redes Sociales',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/company/pallevar/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/pallevar.me/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/profile.php?id=61567145556569',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Mas',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Pallevar',
+                to: 'https://pallevar.me/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Panel Administrativo',
+                href: 'https://mimenu.pallevar.me/',
+              },
+              {
+                label: 'Comanda',
+                href: 'https://kitchen.pallevar.me/',
+              },
+              {
+                label: 'Unete al equipo',
+                href: 'https://jobs.pallevar.me/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Pallevar, Co.`,
       },
       prism: {
         theme: prismThemes.github,
