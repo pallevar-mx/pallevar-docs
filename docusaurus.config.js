@@ -22,7 +22,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'pallevar-me', // Usually your GitHub org/user name.
-  projectName: 'pallevar-jobs', // Usually your repo name.
+  projectName: 'pallevar-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
