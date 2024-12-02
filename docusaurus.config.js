@@ -14,15 +14,15 @@ const config = {
   favicon: 'img/logo_fondo_transparente.png',
 
   // Set the production url of your site here
-  url: 'https://obedvega.github.io',
+  url: 'https://docs.pallevar.me/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs-docusaurus',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'obedvega', // Usually your GitHub org/user name.
-  projectName: 'docs-docusaurus', // Usually your repo name.
+  organizationName: 'pallevar-me', // Usually your GitHub org/user name.
+  projectName: 'pallevar-jobs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
