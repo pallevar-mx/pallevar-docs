@@ -160,7 +160,7 @@ const config = {
       },
       gtag: {
         trackingID: 'G-YKSC410GNC',
-        anonymizeIP: true, // Opcional, si deseas anonimizar las direcciones IP
+        anonymizeIP: true,  
       },
       
     }),
