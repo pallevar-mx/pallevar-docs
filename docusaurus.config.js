@@ -65,6 +65,10 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        gtag: {
+          trackingID: 'G-YKSC410GNC',  
+          anonymizeIP: true,  
+        },
       }),
     ],
   ],
@@ -157,12 +161,7 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-      },
-      gtag: {
-        trackingID: 'G-YKSC410GNC',
-        anonymizeIP: true,  
-      },
-      
+      },     
     }),
 };
 
