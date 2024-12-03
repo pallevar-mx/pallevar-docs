@@ -158,6 +158,11 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      gtag: {
+        trackingID: 'G-YKSC410GNC',
+        anonymizeIP: true, // Opcional, si deseas anonimizar las direcciones IP
+      },
+      
     }),
 };
 
