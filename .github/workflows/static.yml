@@ -38,11 +38,11 @@ jobs:
         with:
           cache: npm
       - name: Install dependencies
-        run: npx ci
+        run: npm ci
       - name: Build docusaurus artifacts
         run: npm run build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
           path: './build'
