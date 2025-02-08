@@ -10,7 +10,7 @@ A continuación, te proporcionamos una introducción al panel administrativo, su
 
 ## 1. Acceso al Panel Administrativo
 
-El panel administrativo está disponible en un subdominio exclusivo para restaurantes: **[mimenu.pallevar.me](https://mimenu.pallevar.me/)**. Para acceder, solo necesitas ingresar tus credenciales (usuario y contraseña) proporcionadas al momento de registrarte en la plataforma.
+El panel administrativo está disponible en un subdominio exclusivo para restaurantes: **[admin.espallevar.com](https://admin.espallevar.com/)**. Para acceder, solo necesitas ingresar tus credenciales (usuario y contraseña) proporcionadas al momento de registrarte en la plataforma.
 
 
 #### Pasos para acceder:

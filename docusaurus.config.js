@@ -14,7 +14,7 @@ const config = {
   favicon: 'img/logo_fondo_transparente.png',
 
   // Set the production url of your site here
-  url: 'https://docs.pallevar.me/',
+  url: 'https://docs.espallevar.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -139,19 +139,19 @@ const config = {
             items: [
               {
                 label: 'Pallevar',
-                to: 'https://pallevar.me/',
+                to: 'https://espallevar.com/',
               },
               {
                 label: 'Panel Administrativo',
-                href: 'https://mimenu.pallevar.me/',
+                href: 'https://admin.espallevar.com/',
               },
               {
                 label: 'Comanda',
-                href: 'https://kitchen.pallevar.me/',
+                href: 'https://lacomanda.pallevar.com/',
               },
               {
                 label: 'Unete al equipo',
-                href: 'https://jobs.pallevar.me/',
+                href: 'https://jobs.espallevar.com/',
               },
             ],
           },

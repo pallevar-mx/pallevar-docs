@@ -9,7 +9,7 @@ Pallevar simplifica el proceso de realizar pedidos en restaurantes al ofrecer un
 ## Paso 1: Accede al Menú Digital
 
 1. **Escanea el código QR**: Encuentra el código QR proporcionado por el restaurante en mesas, empaques o materiales promocionales.
-2. **Haz clic en el enlace**: También puedes acceder al menú directamente desde un enlace compartido por el restaurante (e.g., [pallevar.me/demo](https://pallevar.me/demo)).
+2. **Haz clic en el enlace**: También puedes acceder al menú directamente desde un enlace compartido por el restaurante (e.g., [espallevar.com/demo](https://espallevar.com/demo)).
 3. **Navega por el menú**: Explora las categorías del menú para ver los platillos y bebidas disponibles.
 
 ## Paso 2: Selecciona tus productos

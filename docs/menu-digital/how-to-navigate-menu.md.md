@@ -8,7 +8,7 @@ El Menú Digital de Pallevar está diseñado para ofrecer una experiencia intuit
 
 ## Acceso al Menú Digital
 
-1. **Enlace directo**: Los clientes pueden acceder al menú a través de un enlace único proporcionado por el restaurante, como [pallevar.me/demo](https://pallevar.me/demo).
+1. **Enlace directo**: Los clientes pueden acceder al menú a través de un enlace único proporcionado por el restaurante, como [espallevar.com/demo](https://espallevar.com/demo).
 2. **Códigos QR**: Muchos restaurantes generan códigos QR que enlazan directamente al menú. Solo necesitas escanear el código con la cámara de tu teléfono.
 
 ## Explorando el Menú

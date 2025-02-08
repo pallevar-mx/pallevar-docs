@@ -16,8 +16,8 @@ No necesitas conocimientos técnicos para comenzar, simplemente sigue estos paso
 ## **Pasos para configurar tus métodos de pago**
 
 ### **1. Accede a tu Panel Administrativo**
-   - Inicia sesión en tu cuenta de [**Pallevar**](https://mimenu.pallevar.me/).  
-   - Ve a la sección de **Configuración** > [**Metodo de Pagos**](https://mimenu.pallevar.me/configuracion).
+   - Inicia sesión en tu cuenta de [**Pallevar**](https://admin.espallevar.com/).  
+   - Ve a la sección de **Configuración** > [**Metodo de Pagos**](https://admin.espallevar.com/configuracion).
 
 ---
 

@@ -14,7 +14,7 @@ El Menú Digital en Pallevar es una plataforma interactiva que permite a los res
 
 ### Paso 1: Creación del Menú
 
-1. **Accede al Panel Administrativo:** Inicia sesión en tu cuenta de Pallevar en [mimenu.pallevar.me](https://mimenu.pallevar.me/).
+1. **Accede al Panel Administrativo:** Inicia sesión en tu cuenta de Pallevar en [admin.espallevar.com](https://admin.espallevar.com/).
 
 2. **Dirígete a la sección de Menús:** Desde el panel, selecciona la opción **Menu**.
 
@@ -30,7 +30,7 @@ El Menú Digital en Pallevar es una plataforma interactiva que permite a los res
 
 ### Paso 2: Compartir el Menú
 
-- **Genera un enlace único:** Pallevar crea automáticamente un enlace único para tu restaurante (e.g., pallevar.me/restaurante1).
+- **Genera un enlace único:** Pallevar crea automáticamente un enlace único para tu restaurante (e.g., espallevar.com/restaurante1).
 
 - **Comparte el enlace:** Puedes compartir este enlace en tus redes sociales, sitio web o materiales impresos como códigos QR.
 
